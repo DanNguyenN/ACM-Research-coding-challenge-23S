@@ -11,7 +11,8 @@ The star type in the data split equally. There are 6 types and each type have 40
 
 ### What properties are the most influential in classifying a star's type?
 ![image](static/correlationTable.png)
-According to the correlation table above, the most influential property is the absolute magnitude. We can also check it using the box graph below
+According to the correlation table above, the most influential property is the absolute magnitude. We can also check it using the box graph below.
+
 ![image](static/AbsMagBox.png)
 
 ### My attempt at Hertzsprung-Russell Diagram graph
