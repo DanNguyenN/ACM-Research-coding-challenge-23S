@@ -2,7 +2,7 @@
 
 
 
-- I am pretty new with Data Science, and I learned from the . I learned from [Pandas](https://pandas.pydata.org/docs/). For machine learning, I used sklearn ensemble [Random Forest Classifier](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
+- I am pretty new with Data Science, and I learned from mostly the [Pandas](https://pandas.pydata.org/docs/) documentation to answer the question. For machine learning, I used sklearn ensemble Random Forest Classifier ([documentation](https://scikit-learn.org/stable/modules/ensemble.html#random-forests))
 - I will answer the question below.
 ---
 ### What is the most common star type in the data?
