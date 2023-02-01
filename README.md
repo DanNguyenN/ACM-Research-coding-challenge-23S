@@ -7,6 +7,7 @@
 ---
 ### What is the most common star type in the data?
 The star type in the data split equally. There are 6 types and each type have 40 stars
+
 ![image](static/img.png)
 
 ### What properties are the most influential in classifying a star's type?
